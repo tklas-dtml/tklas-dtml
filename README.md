@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Terraform
 - 🤔 I’m looking for help with "there will be always something"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tklas-dtml)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tklas-dtml)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tklas-dtml&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
